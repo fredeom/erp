@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\n\ Helper\ to\ create\ manage\ and\ populate\ Menu\ JTree\n\n\ @author\ Alexander\ Smirnov\n\ @version\ 2025-01-19\n
+comment1.params=node\ menus
+comment1.target=void\ addNodes(javax.swing.tree.DefaultMutableTreeNode,\ java.util.List)
+numComments=2

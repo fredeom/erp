@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MenuUserAdd
+comment0.text=\n\ In\ this\ dialog\ user\ is\ created.\n\n\ @author\ Alexander\ Smirnov\n\ @version\ 2025-03-16\n
+comment1.params=frame\ title\ modal
+comment1.target=MenuUserAdd(javax.swing.JFrame,\ java.lang.String,\ boolean)
+comment2.params=userGroups
+comment2.target=void\ setPane(java.util.List)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

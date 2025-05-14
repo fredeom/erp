@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MenuUsers
+comment0.text=\n\ Users's\ info\ will\ be\ stored\ in\ this\ class.\n\n\ @author\ Alexander\ Smirnov\n\ @version\ 2025-02-23\n
+comment1.params=
+comment1.target=javax.swing.JPanel\ getPane()
+comment10.params=e
+comment10.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment4.params=
+comment4.target=int\ getColumnCount()
+comment5.params=
+comment5.target=int\ getRowCount()
+comment6.params=col
+comment6.target=java.lang.String\ getColumnName(int)
+comment7.params=row\ col
+comment7.target=java.lang.Object\ getValueAt(int,\ int)
+comment8.params=mouseEvent
+comment8.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment9.params=e
+comment9.target=void\ windowClosing(java.awt.event.WindowEvent)
+numComments=11

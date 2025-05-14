@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=IPage
+comment0.text=\n\ IPage\ is\ a\ base\ class\ for\ all\ pages\ with\ titles\ on\ left\ sidebar.\n\n\ @author\ Alexander\ Smirnov\n\ @version\ 2025-01-09\n
+comment1.params=
+comment1.target=javax.swing.JPanel\ getPane()
+numComments=2

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MenuSettingsAddEdit
+comment0.text=\n\ \u0424\u0440\u0435\u0439\u043C\ \u0434\u043B\u044F\ \u0434\u043E\u0431\u0430\u0432\u043B\u0435\u043D\u0438\u044F/\u0440\u0435\u0434\u0430\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\ \u043D\u043E\u0432\u043E\u0433\u043E\ \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u0430\ \u043C\u0435\u043D\u044E.\n\n\ @author\ Alexander\ Smirnov\n\ @version\ 2025.01.19\n
+comment1.params=frame\ title\ modal
+comment1.target=MenuSettingsAddEdit(javax.swing.JFrame,\ java.lang.String,\ boolean)
+comment2.params=parent_id
+comment2.target=void\ setAddPane(int)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=menuItem\ menuItemsFull
+comment4.target=void\ setEditPane(main.MenuItem,\ java.util.List)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6

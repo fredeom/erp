@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MenuUserEdit
+comment0.text=\n\ In\ this\ dialog\ user\ is\ edited.\n\n\ @author\ Alexander\ Smirnov\n\ @version\ 2025-03-16\n
+comment1.params=frame\ title\ modal
+comment1.target=MenuUserEdit(javax.swing.JFrame,\ java.lang.String,\ boolean)
+comment2.params=userGroups\ user
+comment2.target=void\ setPane(java.util.List,\ main.records.User)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5

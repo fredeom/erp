@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CardLayoutDemo
+comment1.params=pane
+comment1.target=void\ addComponentToPane(java.awt.Container)
+comment2.params=evt
+comment2.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+comment3.params=
+comment3.target=void\ createAndShowGUI()
+comment3.text=\n\ Create\ the\ GUI\ and\ show\ it.\ \ For\ thread\ safety,\n\ this\ method\ should\ be\ invoked\ from\ the\n\ event\ dispatch\ thread.\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=
+comment5.target=void\ run()
+numComments=6

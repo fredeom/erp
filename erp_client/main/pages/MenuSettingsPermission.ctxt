@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MenuSettingsPermission
+comment0.text=\n\ In\ MenuSettingsPermission\ we\ set\ permissions\ for\ user\ groups.\n\n\ @author\ Alexander\ Smirnov\n\ @version\ 2025-02-02\n
+comment1.params=frame\ title\ modal
+comment1.target=MenuSettingsPermission(javax.swing.JFrame,\ java.lang.String,\ boolean)
+comment2.params=menuItem\ menuPermissions\ userGroups
+comment2.target=void\ setPane(main.MenuItem,\ java.util.List,\ java.util.List)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=evt
+comment7.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=list\ permissionName
+comment9.target=void\ updatePermissionList(javax.swing.JList,\ java.lang.String)
+numComments=10

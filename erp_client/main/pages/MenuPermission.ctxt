@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MenuPermission
+comment0.text=\n\ MenuPermission\ is\ simple\ class\ to\ store\ permission\ name\ and\ reference\ to\ menu\ item.\n\n\ @author\ Alexander\ Smirnov\n\ @version\ 2025-02-03\n
+comment1.params=
+comment1.target=MenuPermission()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ toStringFull()
+numComments=4

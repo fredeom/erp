@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=LoginPane
+comment0.text=\n\ LoginPane\ is\ for\ login\ user\ and\ load\ menu\ on\ main\ frame\n\n\ @author\ Alexander\ Smirnov\n\ @version\ 2025-01-07\n
+comment1.params=frame\ cards
+comment1.target=LoginPane(javax.swing.JFrame,\ javax.swing.JPanel)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

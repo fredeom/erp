@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MenuUserGroups
+comment0.text=\n\ UserGroups'\ info\ will\ be\ stored\ in\ this\ class.\n\n\ @author\ Alexander\ Smirnov\n\ @version\ 2025-04-27\n
+comment1.params=
+comment1.target=javax.swing.JPanel\ getPane()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

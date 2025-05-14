@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Notification
+comment0.text=\n\ Notification\ \u0441\u043E\u0434\u0435\u0436\u0440\u0438\u0442\ id\ \u0438\ text\ \u0443\u0432\u0435\u0434\u043E\u043C\u043B\u0435\u043D\u0438\u044F.\n\n\ @author\ Alexander\ Smirnov\n\ @version\ 2025-05-12\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+numComments=2

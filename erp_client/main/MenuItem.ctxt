@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MenuItem
+comment0.text=\n\ MenuItem\ is\ element\ of\ MainMenu\ which\ consist\ of\ menu\ item\ name,\ menu\ item\ pane\ class\ name\ and\ parent_id\ that\ is\ id\ of\ parent\ menu\ item\n\n\ @author\ Alexander\ Smirnov\n\ @version\ 2025-01-07\n
+comment1.params=
+comment1.target=MenuItem()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ toStringWithDetails()
+numComments=4

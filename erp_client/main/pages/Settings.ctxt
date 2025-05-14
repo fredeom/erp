@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Settings
+comment0.text=\n\ Settings\ page.\n\n\ @author\ Alexander\ Smirnov\n\ @version\ 2025-01-09\n
+comment1.params=
+comment1.target=javax.swing.JPanel\ getPane()
+numComments=2

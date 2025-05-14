@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=First
+comment0.text=\n\ Class\ First\ is\ here.\n\n\ @author\ Alexander\ Smirnov\n\ @version\ 2025-01-03\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=evt
+comment2.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+numComments=3
